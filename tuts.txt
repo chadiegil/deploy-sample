@@ -1,0 +1,95 @@
+number 12 = styling the navlinks
+number 13 = design footer
+number 14 = auth components and routes (login,registration,reset)
+number 15 = design the (login,register,reset)
+number 16 = login form (add card) 
+number 17 = register page
+number 18 = reset password page
+number 19 = adding configuration to the application(firebase)
+number 20 = connect with google account for authentication 
+number 21 = adding logic to the application(firebase) 
+          - create user to firebase with email and password
+          - install react-toastify (for notification pop-up)
+number 22 = adding logic to the application(firebase) 
+          - adding toastify
+number 23 = login use from the firebase 
+            create user with google sign-in
+number 24 = logout from firebase
+number 25 = login with google
+number 26 = reset password
+number 27 = monitor/track the current logged in user and display on navbar
+number 28 = redux configuration
+number 29 = create auth reducer
+number 30 = setting the display name for the account that is not using the gmail account
+number 31 = clear the user if logout
+number 32 = show the login or logout according to auth state
+number 33 = put image slider 
+           - website to store image (imgbb.com)
+number 34 = adding functionality of the slider 
+number 35 = auto scroll of the slides 
+number 36 = image slider
+number 37 = admin only
+number 38 = create admin section components
+number 39 = create admin nested routes
+number 40 = create fallback content for non admin
+number 41 = create admin navbar
+number 42 = add product component jsx
+number 43 = handle form input
+number 44 = Upload Image on firebase
+number 44 = Update firebase rules
+number 45 = Display upload progress ang get Image URL
+number 45 = Adding full product to database
+number 46 = Upload products
+number 47 = Get All Products
+number 48 = Display Product on the page
+number 49 = Delete Product
+number 50 = Confirm dialog box to delete a product
+           - install a npm package (npm i notiflix)
+number 51 = save products to redux store
+number 52 = useParams to add and edit Product
+number 53 = detectForm based on params
+number 54 = Edit Product
+number 55 = Back to hompage
+number 56 = Create Product Component and Sub component
+number 57 = Product Component Layout
+number 58 = useFetch collection hook
+number 59 = testing useEffect 
+number 60 = Fetch products in products Component
+number 61 = Product List Component
+number 62 = getDefault Middleware issues
+number 63 = search component
+number 64 = Product List Component Part 2
+number 65 = Product Item Component
+number 66 = Show Loading spinner when fetching
+number 67 = Fetch single Product
+number 68 = Display Product on Product Details
+number 69 = Back to the product button
+number 70 = Product Filter JSX
+number 71 = Filter Product by search
+number 72 = Sort Products
+number 73 = Filter Product by Category
+number 74 = Filter Product by Brand
+number 75 = Filter Product by Price
+number 76 = CLear filter
+number 77 = Responsive filter 
+number 78 = Pagination Component Part 1
+number 79 = Pagination Component Part 2
+number 80 = Redux cartSlice setup
+number 81 = Add product to Cart
+number 82 = Cart Component JSX
+number 83 = Decrease the cart
+number 84 = Delete product from the cart
+number 85 = Clear Cart
+number 86 = Calculate the Sub total
+number 87 = Calculate the total Quantity of Item
+number 88 = Make header Stickey and make Update cart number
+number 89 = Redirect User on Checkout
+number 90 = Create Checkout Component
+number 91 = Checkout Detail Page
+number 92 = Checkout Detail Page
+number 93 = Checkout Detail Page
+number 94 = Setup Checkout Slice in Redux
+ - Payment method -
+number 95 = App create Stripe test account
+number 96 = Install Package for payment
+

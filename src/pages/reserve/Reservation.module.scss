@@ -1,0 +1,56 @@
+.date {
+  font-size: 30px;
+}
+.padding {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10px;
+  padding: 10px;
+  height: 70vh;
+}
+.save:hover {
+  background-color: rgb(30, 184, 30);
+}
+.save {
+  padding: 5px;
+  margin: 10px;
+  width: 100px;
+  background-color: green;
+  color: white;
+  border: none;
+}
+h4 {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: cyan;
+  margin-top: 50px;
+  font-size: medium;
+}
+
+@media screen and (max-width: 700px) {
+  .padding {
+    h1 {
+      font-size: large;
+    }
+    .save {
+      padding: 5px;
+      margin: 10px;
+      width: 100px;
+      background-color: green;
+      color: white;
+      border: none;
+    }
+    .save:focus {
+      background-color: rgb(30, 184, 30);
+    }
+    h4 {
+      padding: 10px;
+      border-radius: 5px;
+      background-color: cyan;
+      margin-top: 50px;
+      font-size: medium;
+    }
+  }
+}
